@@ -12,7 +12,7 @@ btn.addEventListener("click", function () {
 });
 
 function getRandomNumber() {
-  return Math.floor( Math.random() * colors.length);
+  return Math.floor(Math.random() *colors.length);
 }
 
 
